@@ -21,6 +21,7 @@ footer .githubLink a{
         align-items: center;
         justify-content: center;
         margin-top: 15px;
+        padding: 7px;
     }
     footer .githubLink{
         margin-top: 10px;
